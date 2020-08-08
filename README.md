@@ -2,6 +2,8 @@
 
 ###### August 2020
 
+![CSS Variables with JS](Images/CSSvariables.PNG)
+
 _This is a litte app in which you can adjust the border width, color and blur of a photo. I made it as part of [Wes Bos' JavaScript30](https://wesbos.com/) course to practice using CSS variables and then updating them with JavaScript. I really enjoyed this little project and learnt lots!_
 
 ### Main Learning Points:
