@@ -1,4 +1,6 @@
-# Using CSS Variables With JavaScript
+# Photo Frame Editor
+
+## Using CSS Variables With JavaScript
 
 ###### August 2020
 
