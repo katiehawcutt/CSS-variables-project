@@ -34,7 +34,7 @@ No prerequisites
 
 1.  Clone the repo
 
-`git clone https://github.com/katiehawcutt/CSS-variables-project.git`
+`git clone https://github.com/katiehawcutt/photo-frame-editor.git`
 
 2. Run the index.html in a browser
 
